@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dannioan.github.io/microbuztimisoara/</loc>
     <lastmod>2025-04-23</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://dannioan.github.io/microbuztimisoara/despre</loc>
-    <lastmod>2025-04-23</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dannioan.github.io/microbuztimisoara/flota</loc>
-    <lastmod>2025-04-23</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dannioan.github.io/microbuztimisoara/tarife</loc>
-    <lastmod>2025-04-23</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dannioan.github.io/microbuztimisoara/contact</loc>
-    <lastmod>2025-04-23</lastmod>
-    <priority>0.7</priority>
   </url>
 </urlset>
